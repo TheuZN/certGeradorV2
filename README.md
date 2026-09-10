@@ -6,7 +6,7 @@ Aplicação desktop em **.NET / C# (Windows Forms)** que gera certificados em lo
 
 Projeto pessoal, reescrito do zero como exercício de arquitetura e boas práticas — sem nenhuma dependência de uma instituição específica: qualquer CSV e qualquer template `.docx` funcionam, desde que os nomes das colunas do CSV coincidam com os marcadores de texto do template.
 
-![Tela principal](screenshots/tela-principal.webp)
+![Tela principal](screenshots/formulario-vazio.webp)
 
 ## Funcionalidades
 
@@ -20,7 +20,7 @@ Projeto pessoal, reescrito do zero como exercício de arquitetura e boas prátic
 
 | Configuração | Processamento | Resultado |
 |---|---|---|
-| ![Formulário vazio](screenshots/formulario-vazio.webp) | ![Processo concluído](screenshots/processo-concluido.webp) | ![Pasta de saída](screenshots/pasta-saida.webp) |
+| ![Formulário vazio](screenshots/tela-principal.webp) | ![Processo concluído](screenshots/processo-concluido.webp) | ![Pasta de saída](screenshots/pasta-saida.webp) |
 
 Exemplo de certificado gerado a partir do template e dos dados de exemplo:
 

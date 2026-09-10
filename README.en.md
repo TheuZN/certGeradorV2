@@ -6,7 +6,7 @@ Desktop application built with **.NET / C# (Windows Forms)** that generates cert
 
 Personal project, rewritten from scratch as an exercise in architecture and best practices — with no dependency on any specific organization: any CSV and any `.docx` template will work, as long as the CSV column names match the template's text placeholders.
 
-![Main screen](screenshots/tela-principal.webp)
+![Main screen](screenshots/formulario-vazio.webp)
 
 ## Features
 
@@ -20,7 +20,7 @@ Personal project, rewritten from scratch as an exercise in architecture and best
 
 | Setup | Processing | Result |
 |---|---|---|
-| ![Empty form](screenshots/formulario-vazio.webp) | ![Process complete](screenshots/processo-concluido.webp) | ![Output folder](screenshots/pasta-saida.webp) |
+| ![Empty form](screenshots/tela-principal.webp) | ![Process complete](screenshots/processo-concluido.webp) | ![Output folder](screenshots/pasta-saida.webp) |
 
 Example certificate generated from the sample template and data:
 
