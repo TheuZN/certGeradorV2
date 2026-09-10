@@ -1,0 +1,6 @@
+#nome;#cpf;#curso;#cargahoraria;#datainicio;#datatermino;#cidade;#dataemissao;#instrutor
+Maria Fernanda Costa Lima;123.456.789-00;Excel Avançado para Análise de Dados;40;01/03/2026;15/03/2026;São Paulo;20 de março de 2026;Carlos Eduardo Ramos
+João Pedro Almeida Santos;234.567.890-11;Fundamentos de Programação com Python;60;05/03/2026;30/03/2026;Campinas;02 de abril de 2026;Fernanda Oliveira Souza
+Ana Beatriz Rodrigues Silva;345.678.901-22;Gestão de Projetos com Metodologias Ágeis;30;10/03/2026;24/03/2026;São Paulo;28 de março de 2026;Carlos Eduardo Ramos
+Lucas Gabriel Ferreira Nunes;456.789.012-33;Segurança do Trabalho em Ambientes Industriais;45;01/04/2026;20/04/2026;Guarulhos;25 de abril de 2026;Patrícia Menezes Rocha
+Juliana Aparecida Martins;567.890.123-44;Excel Avançado para Análise de Dados;40;01/03/2026;15/03/2026;São Paulo;20 de março de 2026;Carlos Eduardo Ramos

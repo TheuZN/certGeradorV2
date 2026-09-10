@@ -1,0 +1,18 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Rider / Visual Studio
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Saída gerada pelo app (PDFs de teste)
+**/SampleData/Output/
